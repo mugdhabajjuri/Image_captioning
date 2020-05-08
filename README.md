@@ -15,7 +15,7 @@ In the "test" folder, we have few  images to test our model. We give this test i
 
 ## About the notebooks folder
 
-ImagesCaptioning.ipynb --> consists of source code
+ImagesCaptioning.ipynb --> consists of source code /n
 description.txt --> consists of dict of descriptions with descriptions as key and captions as values. 
 tokenizer.pkl --> We created the tokenizer and saved it to a file named tokenizer.pkl so that we can load it quickly whenever we need it without needing the entire Flickr8K dataset. 
 model.png --> A plot to visualize the structure of the network that better helps understand the two streams of input.
