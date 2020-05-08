@@ -1,14 +1,13 @@
-Image_Captioning
+Image Captioning
 ==============================
 
 Aim of this project is to develop a deep learning model to generate a caption, given an image.
 
-
 ## Few details about the data folder
 
-Data directory consists of two folders Processed and test.
+Data directory consists of two folders processed and test.
 
-In the "processed" folder, we have our flickr8k dataset. More in depth about this is in the report.doc
+In the "processed" folder, we have flickr8k dataset. More in depth about this is in the report.doc
 
 In the "test" folder, we have few  images to test our model. We give this test image path in new caption generation part of our code 
 
