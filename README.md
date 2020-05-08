@@ -4,7 +4,7 @@ Image_Captioning
 Aim of this project is to develop a deep learning model to generate a caption, given an image.
 
 
-## About the data folder
+## Few details about the data folder
 
 Data directory consists of two folders Processed and test.
 
