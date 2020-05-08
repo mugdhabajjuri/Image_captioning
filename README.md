@@ -23,7 +23,7 @@ features.pkl -->  Extracted features stored in ‘features.pkl‘ for later use
 
 ## About the Reports folder
 
-We have all information about this project in the report.doc
+All the information about this project is indetail specified in the report.pdf (reports/report.pdf)
 
 
 
