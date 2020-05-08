@@ -10,7 +10,7 @@ Data directory consists of two folders Processed and test.
 
 In the "processed" folder, we have our flickr8k dataset. More in depth about this is in the report.doc
 
-In the "test" folder, we have few of images to test our model. We give this test image path in new caption generation part of our code 
+In the "test" folder, we have few  images to test our model. We give this test image path in new caption generation part of our code 
 
 ![png](reports/output.png)
 
